@@ -1,4 +1,5 @@
 Here is a list of the language short forms (ISO 639-1 codes) supported by iOS:
+
 	1.	af - Afrikaans
 	2.	sq - Albanian
 	3.	am - Amharic
